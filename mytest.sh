@@ -4,4 +4,4 @@ cal
 echo "bye bye"
 echo "new lines of code added here..."
 echo "github auto trigger test"
-echo "final1"
+echo "final"
